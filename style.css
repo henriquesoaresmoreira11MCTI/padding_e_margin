@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+
+    
+}
+main{
+    border: 3px solid black;
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    height: 600px;
+    margin-top: 10px;
+
+}
+.foto{
+    border: 3px solid black;
+    color: purple;
+    display: inline-block;
+    padding: 50px 30px;
+
+}
